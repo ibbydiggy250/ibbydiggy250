@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+My name is Ibrahim Quaizar, and I am an aspiring Computer Engineer at Stony Brook!
 <!--
 **ibbydiggy250/ibbydiggy250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
